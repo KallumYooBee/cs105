@@ -1,0 +1,9 @@
+﻿  Lab1.cpp
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(11,14): error C3646: 'location': unknown override specifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(11,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,45): error C2065: 'location': undeclared identifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,84): error C2065: 'location': undeclared identifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,118): error C2065: 'location': undeclared identifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,165): error C2065: 'location': undeclared identifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,203): error C2065: 'location': undeclared identifier
+C:\Users\Kallu\OneDrive\Desktop\cs105\Lab1\Lab1.cpp(23,238): error C2065: 'location': undeclared identifier
